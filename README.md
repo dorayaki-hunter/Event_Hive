@@ -1,6 +1,6 @@
-# 🐝 EventHive – Thapar Campus Event Hub
+# 🐝 EventHive – Campus Event Hub
 
-EventHive is a campus event discovery platform for students of Thapar Institute of Engineering & Technology (TIET). It brings campus activities together in one place so students can explore upcoming events, save favourites, and manage registrations.
+EventHive is a campus event discovery platform for students. It brings campus activities together in one place so students can explore upcoming events, save favourites, and manage registrations.
 
 ## ✨ Features
 
@@ -27,7 +27,7 @@ EventHive is a campus event discovery platform for students of Thapar Institute 
 Clone the repository:
 
 ```bash
-git clone https://github.com/agrimatiwari/EventHive.git
+git clone https://github.com/dorayaki-hunter/EventHive.git
 ```
 
 Navigate to the project folder:
@@ -46,4 +46,4 @@ EventHive stores demo account details, registrations, saved events, notification
 
 ## 🔗 Repository
 
-[GitHub – EventHive](https://github.com/agrimatiwari/EventHive)
+[GitHub – EventHive](https://github.com/dorayaki-hunter/EventHive)
